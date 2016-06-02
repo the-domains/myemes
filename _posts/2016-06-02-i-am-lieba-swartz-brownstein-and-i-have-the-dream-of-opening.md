@@ -5,13 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-02T06:08:40.075Z'
-dateModified: '2016-06-02T06:08:33.818Z'
+datePublished: '2016-06-02T06:10:12.247Z'
+dateModified: '2016-06-02T06:10:11.331Z'
 title: ''
 author: []
 authors: []
 publisher: null
-starred: false
+starred: true
 sourcePath: _posts/2016-06-02-i-am-lieba-swartz-brownstein-and-i-have-the-dream-of-opening.md
 _type: Blurb
 
@@ -61,19 +61,13 @@ Help break down the sigma that the orthodox world has created around mental heal
 
 Change the Jewish Community. 
 
-What are the accommodations that will be made in EMES: 
+What are the accommodations that will be made in EMES:
 
-•
+•Kosher Food
 
-Kosher Food
+• Shabbat meals- Support 
 
-•
-
-Shabbat meals- Support 
-
-•
-
-Celebration of Holidays 
+• Celebration of Holidays 
 
 •
 
