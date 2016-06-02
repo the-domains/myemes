@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-02T06:03:42.434Z'
-dateModified: '2016-06-02T06:03:14.611Z'
+datePublished: '2016-06-02T06:06:57.450Z'
+dateModified: '2016-06-02T06:06:31.091Z'
 title: ''
 author: []
 authors: []
@@ -18,25 +18,7 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4074d0d-1503-420e-91c1-cbfee494d86c.jpg)
 
-I
-am Lieba Swartz-Brownstein and I have the dream of opening EMES. EMES stands
-for Everyone Matters Eating Support and it will be the first Jewish Eating
-Disorder treatment center in America for women. My dream to open EMES sparked
-from my own recovery Journey. I myself struggled with a eating disorder for
-close to a decade before I was able to receive treatment. Being Jewish and
-going to treatment is no easy task and that is why I have decided to open EMES.
-Emes in Hebrew means truth because the program I hope to open one day will have
-the truth and the answer for Jewish Women to recover from there eating
-disorders. I have been to treatment many times through my journey and each time
-I have had to work out how to get Kosher food, how to keep Shabbat, and how to
-find places to Pray. What would it look like if all those things were just
-given to you? What would it look like if you walked in to a place and you were
-already understood and you did not need to explain what Kosher is? NEDA
-(National Eating Disorder Association) says, that with Shabbat, holidays,
-kashrut, and other details of the Jewish life, the patient can often feel
-misunderstood or weary of clinicians from other backgrounds. Therefore, the
-needs of a Jewish patient often times require specific knowledge on the part of
-the treatment team. 
+I am Lieba Swartz-Brownstein and I have the dream of opening EMES. EMES stands for Everyone Matters Eating Support and it will be the first Jewish Eating Disorder treatment center in America for women. My dream to open EMES sparked from my own recovery Journey. I myself struggled with a eating disorder for close to a decade before I was able to receive treatment. Being Jewish and going to treatment is no easy task and that is why I have decided to open EMES. Emes in Hebrew means truth because the program I hope to open one day will have the truth and the answer for Jewish Women to recover from there eating disorders. I have been to treatment many times through my journey and each time I have had to work out how to get Kosher food, how to keep Shabbat, and how to find places to Pray. What would it look like if all those things were just given to you? What would it look like if you walked in to a place and you were already understood and you did not need to explain what Kosher is? NEDA (National Eating Disorder Association) says, that with Shabbat, holidays, kashrut, and other details of the Jewish life, the patient can often feel misunderstood or weary of clinicians from other backgrounds. Therefore, the needs of a Jewish patient often times require specific knowledge on the part of the treatment team. 
 
 **The most effective treatment will be from individuals who are culturally sensitive and those that can collaborate with the appropriate treatment team.**
 
