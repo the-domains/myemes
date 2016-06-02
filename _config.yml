@@ -2,6 +2,7 @@ name: myemes
 favicon: null
 layout_spectrum: 0.9817334329709411
 typography_spectrum: 0.6080712294206023
+title: Emes
 cta:
   domain: null
   bucket: null
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#030406'
+    - '#d0893f'
+    - '#f1c486'
+    - '#83531f'
+    - '#5d3110'
   brandStrength: 0.6413671458140016
   lightness: 0.8416057866998017
-  saturation: 0.1975944882724434
+  saturation: 0.125
   rhythmicContrast: 0.7081959799397737
 purpose: []
